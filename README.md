@@ -1,4 +1,4 @@
-# Minecraft Bedrock Server Management Tool PROLEAK
+# Minecraft Bedrock Server Manage PROLEAK 1.02
 
 ## Overview
 The Minecraft Server Management Tool is a utility designed for managing Minecraft server version 1.21.303, specifically tailored for the Bedrock edition. This project, currently in version 1.02, offers essential features such as starting and stopping the server, along with the capability to download the server files directly from the official Minecraft website.
